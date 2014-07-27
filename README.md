@@ -20,3 +20,8 @@ Process
 7. Add activity and subject labels (from 3. & 4.) to the data set
 8. -> First step finished: Tidy data set with readable variable names
 9. Create a second data set with the average of each variable for each activity and each subject
+10. Write the data set to disk
+
+Cleaned data
+-----------------
+The resulting clean dataset contains one row for each subject/activity pair and columns for subject, activity, and each mean or standard deviation feature from the original dataset.
